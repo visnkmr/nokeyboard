@@ -3,7 +3,7 @@
 
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=io.github.visnkmr.nokeyboard) 
   
-**A revolutionary keyboard that allows you to hide your keyboard when not required. Also useful if you use bluetooth keyboard or just want to scroll through text on device without the keyboard popping up. **   
+**A revolutionary keyboard that allows you to hide your keyboard when not required. Also useful if you use bluetooth keyboard or just want to scroll through text on device without the keyboard popping up.**   
 
 **Setting It Up**  
 Open No Keyboard, enable No Keyboard, and then pick it as your input method. No Keyboard should appear the next time you edit any text.
